@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kokos
+HostName                       localhost.localdomain
+ProcessIdentifier              2477
+ProcessCreationTime_UTC        1436021302
+ProcessCreationTime_Readable   Sat Jul  4 16:48:22 2015 CEST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/kokos/Downloads/TEST/upk15_g14/passTrans/constraint/hierDesign.oa.cdslck
+TimeEditLocked                 Sat Jul  4 17:27:19 2015 CEST

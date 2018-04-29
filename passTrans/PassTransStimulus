@@ -1,0 +1,9 @@
+simulator lang=spectre
+Vdd (vdd! 0) vsource dc=1.8
+Gnd (gnd! 0) vsource dc=0
+C1 (0 BL) capacitor c=3f
+C2 (0 Out) capacitor c=3f
+V0 (WL 0) vsource type=pwl wave=\[0n 0 36n 0.9 37n 1.8 42n 1.8 43n 0.9 44n 0]
+V1 (BL 0)  vsource type=pwl wave=\[0n 0.9 33n 0.9 37n 1.8 43n 1.8 50n 0.9]
+V2 (In 0) vsource type=pwl wave=\[0n 0   40n 0 41n 0.9 43n 1.8 50n 1.8 53n 0.9 55n 0  66n 0 75n 1.8 90n 1.8 100n 0]
+

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kokos
+HostName                       localhost
+ProcessIdentifier              2477
+ProcessCreationTime_UTC        1436021291
+ProcessCreationTime_Readable   Sat Jul  4 16:48:11 2015 CEST
+AppIdentifier                  /home/kokos/cadence/installs/IC615/tools.lnx86/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/kokos/Downloads/TEST/upk15_g14/passTrans/constraint/prop.cfg
+TimeEditLocked                 Sat Jul  4 17:27:19 2015 CEST
